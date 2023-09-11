@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mohd Shuaib Alam
-Skills: HTML,CSS,JS,ReactJs,Nodejs,MongoDb,ExpressJs
-Email: mohdshuaib.asahi@gmail.com
-{{/user}}
